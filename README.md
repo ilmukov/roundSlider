@@ -1,2 +1,2 @@
 # roundSlider
-https://github.com/ilmukov/roundSlider/commit/13cd3b8eb0834e476ddb22ad891f039fe2cad2fc
+https://github.com/ilmukov/roundSlider/blob/main/screenshot/Снимок%20экрана%202021-07-25%20в%2021.31.58.png
